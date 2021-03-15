@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="361d8ce0-3777-4e54-9f68-c5b7482b3848" name="Default Changelist" comment="" />
+    <list default="true" id="361d8ce0-3777-4e54-9f68-c5b7482b3848" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/PrestaShop/TestPosNegLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/PrestaShop/TestPosNegLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/PrestaShop/WebDriverSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/PrestaShop/WebDriverSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/TestPrestaPageObject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/PrestaShop/TestPosNegLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/PrestaShop/TestPosNegLogin.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -26,8 +37,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1pGKWTtgZPGkATahIweM7j6Nzgy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/drivers" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3643678" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -46,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SingUp">
+  <component name="RunManager" selected="JUnit.TestPosNegLogin.findOnAutoRio">
     <configuration name="SingUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestPrestaPageObject" />
       <extension name="coverage">
@@ -58,6 +74,22 @@
       <option name="PACKAGE_NAME" value="com.PrestaShop.SingUp" />
       <option name="MAIN_CLASS_NAME" value="com.PrestaShop.SingUp.SingUp" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingUp.singUpFailed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestPrestaPageObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.PrestaShop.SingUp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.PrestaShop.SingUp" />
+      <option name="MAIN_CLASS_NAME" value="com.PrestaShop.SingUp.SingUp" />
+      <option name="METHOD_NAME" value="singUpFailed" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,33 +109,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPosNegLogin.singUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPosNegLogin.findAllLocaters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestPrestaPageObject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.PrestaShop.SingUp.*" />
+          <option name="PATTERN" value="com.PrestaShop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.PrestaShop" />
       <option name="MAIN_CLASS_NAME" value="com.PrestaShop.TestPosNegLogin" />
-      <option name="METHOD_NAME" value="singUp" />
+      <option name="METHOD_NAME" value="findAllLocaters" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPosNegLogin.singUpFailed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPosNegLogin.findOnAutoRio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestPrestaPageObject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.PrestaShop.SingUp.*" />
+          <option name="PATTERN" value="com.PrestaShop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.PrestaShop" />
       <option name="MAIN_CLASS_NAME" value="com.PrestaShop.TestPosNegLogin" />
-      <option name="METHOD_NAME" value="singUpFailed" />
+      <option name="METHOD_NAME" value="findOnAutoRio" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestPosNegLogin.findOnAutoRio" />
+        <item itemvalue="JUnit.SingUp.singUpFailed" />
+        <item itemvalue="JUnit.TestPosNegLogin" />
+        <item itemvalue="JUnit.TestPosNegLogin.findAllLocaters" />
         <item itemvalue="JUnit.SingUp" />
-        <item itemvalue="JUnit.TestPosNegLogin" />
-        <item itemvalue="JUnit.TestPosNegLogin" />
-        <item itemvalue="JUnit.TestPosNegLogin.singUpFailed" />
-        <item itemvalue="JUnit.TestPosNegLogin.singUp" />
       </list>
     </recent_temporary>
   </component>
@@ -131,5 +163,18 @@
       <updated>1614804018644</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
