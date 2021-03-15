@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="361d8ce0-3777-4e54-9f68-c5b7482b3848" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/PrestaShop/TestPosNegLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/PrestaShop/TestPosNegLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/PrestaShop/WebDriverSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/PrestaShop/WebDriverSettings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/TestPrestaPageObject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/PrestaShop/TestPosNegLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/PrestaShop/TestPosNegLogin.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -92,8 +92,8 @@ public class TestPosNegLogin {
         WebDriver driver = new ChromeDriver();
         driver.get("http://prestashop.qatestlab.com.ua/en/");
 
-        //String xPath = "//div/div";
-        String xPath = "div/div";
+        String xPath = "//div/div";
+        //String xPath = "div/div";
         List<WebElement> listFromXpath = driver.findElements(By.xpath(xPath));
         if ( listFromXpath.isEmpty() ) {
             System.out.println("Element doesn`t present");
